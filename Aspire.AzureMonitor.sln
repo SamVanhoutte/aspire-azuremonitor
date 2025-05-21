@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingHost", "LoggingHost\LoggingHost.csproj", "{77AFE536-BCAB-448E-9F43-BC5FC2549748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingHost.Defaults", "LoggingHost.Defaults\LoggingHost.Defaults.csproj", "{1581423B-F9E6-4E1F-B91B-6ED5838045ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerApp", "WorkerApp\WorkerApp.csproj", "{6C6DABF9-6A6A-4917-98FB-5D9B57206286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77AFE536-BCAB-448E-9F43-BC5FC2549748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AFE536-BCAB-448E-9F43-BC5FC2549748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AFE536-BCAB-448E-9F43-BC5FC2549748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AFE536-BCAB-448E-9F43-BC5FC2549748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1581423B-F9E6-4E1F-B91B-6ED5838045ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1581423B-F9E6-4E1F-B91B-6ED5838045ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1581423B-F9E6-4E1F-B91B-6ED5838045ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1581423B-F9E6-4E1F-B91B-6ED5838045ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6DABF9-6A6A-4917-98FB-5D9B57206286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6DABF9-6A6A-4917-98FB-5D9B57206286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6DABF9-6A6A-4917-98FB-5D9B57206286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6DABF9-6A6A-4917-98FB-5D9B57206286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
